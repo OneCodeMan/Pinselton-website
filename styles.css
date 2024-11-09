@@ -1,0 +1,167 @@
+body {
+    font-family: "Merriweather", serif;
+    font-style: normal;
+}
+
+.navbar-brand {
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+.home-link {
+  font-size: 16px;
+  color: black;
+}
+
+.container-jumbo {
+  border-radius: 10px;
+}
+
+.nav-social-links {
+  padding-right: 30px;
+}
+
+.download-href {
+    padding: 10px;
+}
+
+.qr-code-img {
+    padding: 5px;
+}
+
+.header-text {
+    padding: 5px;
+}
+
+.pitch-text {
+    width: 35vw;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.bottom-callout {
+    background-color: rgb(249, 249, 249);
+    border-radius: 10px;
+}
+
+.inner-callout {
+    padding: 10px;
+}
+
+.qr-div {
+    padding: 5px;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.contact-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-paragraph {
+    border: solid 0.2px lightgray;
+    padding: 16px;
+    border-radius: 15px;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.footer-container {
+    padding: 25px;
+}
+
+.footer-item {
+    padding: 20px;
+    padding-bottom: 30px;
+}
+
+.iphone-frame {
+    z-index: 10;
+}
+
+.inner-image {
+    position: absolute;
+    top: 5%; /* Adjust these values as needed */
+    left: 10%;
+    width: 80%;
+    height: 89%;
+    z-index: -1;
+    border-radius: 20px; /* Optional: to match the rounded corners if needed */
+}
+
+.feature-div {
+  z-index: -1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: gainsboro;
+  border-radius: 15px;
+}
+
+.img-feature {
+  z-index: 10;
+  padding: 10px;
+  object-fit: scale-down;
+}
+
+/** iphone **/
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .merriweather-light-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .merriweather-bold-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .merriweather-black-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  .requires-text {
+    font-size: 15px;
+    font-style: italic;
+  }
